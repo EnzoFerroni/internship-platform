@@ -48,8 +48,8 @@ the platform: students, companies and administrators. The UI is in Portuguese.
 Requirements: JDK 17, Maven, Node.js 18+ and a PostgreSQL database.
 
 ```bash
-git clone https://github.com/EnzoFerroni/sistema-estagios.git
-cd sistema-estagios
+git clone https://github.com/EnzoFerroni/internship-platform.git
+cd internship-platform
 ```
 
 The database connection comes from environment variables:

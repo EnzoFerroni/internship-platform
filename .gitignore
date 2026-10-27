@@ -1,0 +1,7 @@
+target/
+data/
+*.log
+log.txt
+node_modules/
+.next/
+.DS_Store
